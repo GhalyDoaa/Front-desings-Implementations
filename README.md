@@ -4,6 +4,7 @@
 
 # 1
 ### implement design sample 1
+![Image of my design1](https://github.com/GhalyDoaa/Front-desings-Implementations/blob/main/design1)
 find code **[here](https://github.com/GhalyDoaa/resume-Implementation-design)**
 
 # 2
